@@ -1,0 +1,11 @@
+node_modules
+dist
+android
+.DS_Store
+$RECYCLE.BIN
+$WinREAgent
+Documents and Settings
+AndrowsData
+.vscode
+package-lock.json
+assets/
